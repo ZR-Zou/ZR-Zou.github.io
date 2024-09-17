@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>FastDownload</title>
+    <url>/FastDownload/</url>
+    <content><![CDATA[<h2 id="一、软件介绍"><a href="#一、软件介绍" class="headerlink" title="一、软件介绍"></a>一、软件介绍</h2><p>FastDownload是由ZR_Zou制作的一个面向Windows用户的下载工具，使用Java编写。<br><strong>（练手项目，持续更新，敬请期待）</strong></p>
+<h4 id="功能介绍"><a href="#功能介绍" class="headerlink" title="功能介绍"></a>功能介绍</h4><ul>
+<li>基础下载服务</li>
+<li>更新服务</li>
+<li><strong>敬请期待……</strong></li>
+</ul>
+<h2 id="二、下载方式"><a href="#二、下载方式" class="headerlink" title="二、下载方式"></a>二、下载方式</h2><p>1.蓝奏云：<a class="link"   href="https://wwz.lanzout.com/b03rd2f7i" >https://wwz.lanzout.com/b03rd2f7i <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 密码:FDD</p>
+<p>2.Gitee发行版：<a class="link"   href="https://gitee.com/ZR_Zou/fast-download/releases/latest" >https://gitee.com/ZR_Zou/fast-download/releases/latest <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h2 id="三、反馈问题"><a href="#三、反馈问题" class="headerlink" title="三、反馈问题"></a>三、反馈问题</h2><p><a class="link"   href="https://gitee.com/ZR_Zou/fast-download/issues/new" >https://gitee.com/ZR_Zou/fast-download/issues/new <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h2 id="四、更新日志"><a href="#四、更新日志" class="headerlink" title="四、更新日志"></a>四、更新日志</h2><p><strong>FastDownload 2.0：</strong>（2024-08-02）<br>1.添加了GUI界面，抛弃了原先的控制台界面</p>
+<p><strong>FastDownload 1.0：</strong>（2024-05-04）<br>1.FastDownload发布</p>
+<h2 id="五、查看源代码"><a href="#五、查看源代码" class="headerlink" title="五、查看源代码"></a>五、查看源代码</h2><p>1.Gitee仓库：<a class="link"   href="https://gitee.com/ZR_Zou/fast-download/" >https://gitee.com/ZR_Zou/fast-download/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+]]></content>
+      <categories>
+        <category>自制软件</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Java Swing实现JButton按钮透明</title>
+    <url>/Java-Swing%E5%AE%9E%E7%8E%B0JButton%E9%80%8F%E6%98%8E/</url>
+    <content><![CDATA[<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Button.setContentAreaFilled(false); //将按钮设置为透明</span><br><span class="line">Button.setBorderPainted(false); //去除按钮边框</span><br><span class="line">button.setFocusPainted(false); //去除按钮焦点样式</span><br></pre></td></tr></table></figure></div>
+]]></content>
+      <categories>
+        <category>编程笔记</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>泰坦陨落2报错解决方案</title>
+    <url>/%E6%B3%B0%E5%9D%A6%E9%99%A8%E8%90%BD2%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</url>
+    <content><![CDATA[<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://img.picui.cn/free/2024/09/17/66e976d6b2e3e.png"
+                      alt="wenti.png"
+                ><br>如果你运行泰坦陨落2时出现如上所示的错误弹窗，这是由于缺少系统文件导致的。<br>你可以点击此链接：<a class="link"   href="https://www.microsoft.com/zh-CN/download/details.aspx?id=40784" >https://www.microsoft.com/zh-CN/download/details.aspx?id=40784 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>下载Visual C++ Redistributable Packages for Visual Studio 2013，便可以解决此问题（本人亲测有效）</p>
+]]></content>
+      <categories>
+        <category>游戏问题</category>
+      </categories>
+      <tags>
+        <tag>游戏</tag>
+      </tags>
+  </entry>
+</search>
