@@ -24,6 +24,18 @@
       </tags>
   </entry>
   <entry>
+    <title>Java Swing实现JButton按钮透明</title>
+    <url>/Java-Swing%E5%AE%9E%E7%8E%B0JButton%E9%80%8F%E6%98%8E/</url>
+    <content><![CDATA[<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Button.setContentAreaFilled(false); //将按钮设置为透明</span><br><span class="line">Button.setBorderPainted(false); //去除按钮边框</span><br><span class="line">button.setFocusPainted(false); //去除按钮焦点样式</span><br></pre></td></tr></table></figure></div>
+]]></content>
+      <categories>
+        <category>编程笔记</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>泰坦陨落2报错解决方案</title>
     <url>/%E6%B3%B0%E5%9D%A6%E9%99%A8%E8%90%BD2%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</url>
     <content><![CDATA[<p><img  
@@ -38,18 +50,6 @@
       </categories>
       <tags>
         <tag>游戏</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Java Swing实现JButton按钮透明</title>
-    <url>/Java-Swing%E5%AE%9E%E7%8E%B0JButton%E9%80%8F%E6%98%8E/</url>
-    <content><![CDATA[<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Button.setContentAreaFilled(false); //将按钮设置为透明</span><br><span class="line">Button.setBorderPainted(false); //去除按钮边框</span><br><span class="line">button.setFocusPainted(false); //去除按钮焦点样式</span><br></pre></td></tr></table></figure></div>
-]]></content>
-      <categories>
-        <category>编程笔记</category>
-      </categories>
-      <tags>
-        <tag>Java</tag>
       </tags>
   </entry>
 </search>
